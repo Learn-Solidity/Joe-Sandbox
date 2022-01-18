@@ -4,7 +4,6 @@ pragma solidity ^0.8.0;
 
 contract SimpleStorage {
 
-    // This is how you write comments
     bool favoritebool = false;
     string favoriteString = "String";
     int256 favoriteInt = -5;
